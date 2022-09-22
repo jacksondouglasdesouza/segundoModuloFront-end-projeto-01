@@ -28,7 +28,7 @@ Foi usado as seguintes tecnologias:
 </p>
 
 <p>
-Me segue no Linkedin: 
+Me adiciona no Linkedin: 
 <div align-items="left">
 <a href="https://www.linkedin.com/in/jacksondouglasdesouza" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=" Lindekin Jackson Douglas de souza" >
