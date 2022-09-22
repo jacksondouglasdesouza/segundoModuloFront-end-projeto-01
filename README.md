@@ -3,9 +3,9 @@
 Projeto do curso de desenvolvimento de software, este é o primeiro projeto do segundo módulo de desenvolvimento Front-end, abordando os temas posicionamento, grid, flex box.
 O Projeto foi baseado em uma persona empresa, a fastbike. Desenvolvi o protótipo e a logomarca utilizando a tecnologia  Figma e utilizei as tecnologias HTML5 E CSS3 nativos para o desenvolvimento da página web. A página ainda é semi responsiva.
 
-### Segue link do projeto no Figma: https://www.figma.com/file/56MymSIIOqBulhkcV8vQPR/Untitled?node-id=0%3A1
+### link do protótipo no Figma: https://www.figma.com/file/56MymSIIOqBulhkcV8vQPR/Untitled?node-id=0%3A1
 
-### Segue o link da gravação de tela no youtube: https://youtu.be/CpcDmuANZUE
+### Link da gravação de tela no youtube: https://youtu.be/CpcDmuANZUE
 
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg00okUF66NPZbwV-OAQ19qWvXtW1_BpOW98CpiGBj1Wj6j0Mj9WKuFI3AArW5yNBypvZxNUwrGdyAfyVCZ06zBHLNI2hBG5R9Uy-EcxjUeSAORv5c4HEUPoq0fPRTOX3NoxC000B8dF9mfF-d_x3jiNzTmLf_kDWz7vSPPrfRutGPtL3PLjx47-mMk/w640-h640/logoMarca-fastbike.jpg"
   alt="Projeto do curso de desenvolvimento de software - FASTBIKE - posicionamento.">
