@@ -25,7 +25,9 @@ Foi usado as seguintes tecnologias:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Jackson Douglas de Souza -HTML" height="35" width="45" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Jackson Douglas de Souza -CSS" height="35" width="45" >
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Jackson Douglas de Souza -Figma" height="35" width="45">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Jackson Douglas de Souza-vscode" height="35" width="45">
 </p>
+
 
 <p>
 Me adiciona no Linkedin: 
